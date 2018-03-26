@@ -1,0 +1,140 @@
+.main-home-careers {
+    /*top:94px;*/
+    height: 65vh;
+    padding: 160px 0px 0px 0px;
+    z-index: 1;
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    color: #fff;
+    background: green;
+    min-height: 400px;
+}
+.home-bg-careers {
+    background-size: cover;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    opacity: 0.50;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url("<?=base_url('assest')?>/img/lead_gen.jpg") no-repeat center;
+}
+
+.main-home-services {
+    height: 60vh;
+    padding: 60px 0;
+    z-index: 1;
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    color: #fff;
+    background: #ff5b02;
+    min-height: 400px;
+}
+.home__header-content-careers {
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    position: absolute;
+    top: 56%;
+    left: 0;
+    right: 0;
+}
+.channel-content {
+    border-right: 1px solid #EBEBEB;
+}
+.channel-content {
+    border-right: 1px solid #EBEBEB;
+    padding-right: 45px;
+}
+.channel-content {
+    border-right: 1px solid #EBEBEB;
+    padding-right: 0px !important;
+}
+.channel-content {
+    border: none !important;
+}
+.careers-head {
+    color: #555;
+    font-size: 35px;
+    letter-spacing: .02em;
+    font-weight: lighter;
+    margin-top: 15px;
+    text-align: center;
+    line-height: 35pt;
+}
+
+.careers-help {
+    color: #000;
+    letter-spacing: .03em;
+    font-size: 12pt;
+}
+.arrow-careers {
+    color: #F26721;
+}
+
+/*Current openings*/
+.cc-data1 {
+    line-height: 20pt;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 0.05em;
+    color: #2e2e2e;
+    font-family: 'Muli', sans-serif;
+    font-size: 12pt;
+}
+.detail {
+    color: #75a733;
+}
+.text-left {
+    text-align: left;
+}
+.channel-content ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+}
+
+    .channel-content ul li {
+        list-style: none;
+    }
+
+.channel-content {
+    border-right: 1px solid #EBEBEB;
+    padding-right: 45px;
+}
+
+.channel-resource {
+    padding-left: 45px;
+}
+.side {
+    padding: 43px;
+    background: #e9ebee;
+    height: 100%;
+}
+
+.side-data {
+    font-weight: bold;
+}
+.contactus {
+    font-family: 'Muli', sans-serif;
+    /*font-size: 15px;*/
+    /*color: #000;*/
+    /*opacity: .7;*/
+    line-height: 1.6em;
+}
+.comment {
+    color: #898989;
+    line-height: 1.6em;
+    font-family: 'Muli', sans-serif;
+    font-size: 14px;
+    /* width: 400px; */
+    /* background-color: #f0f0f0; */
+    /* margin: 10px; */
+}

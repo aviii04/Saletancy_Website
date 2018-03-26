@@ -1,0 +1,36 @@
+.site-header {
+    background-color: #18d26e;
+    position: relative;
+}
+
+.custom-header {
+    position: relative;
+}
+
+.ZISiteTitle {
+    font-size: 38px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 200;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    padding-top: 20px;
+}
+
+.ZIBlogHomeSubscribe {
+    width: 60%;
+    margin: auto;
+    display: flex;
+}
+
+    .ZIBlogHomeSubscribe input[type=submit] {
+        background-color: #f3703a;
+        flex-grow: 1;
+        font-weight: normal;
+        height: 50px;
+        color: white;
+    }
+
+    .ZIBlogHomeSubscribe input[type=text] {
+        border-color: #a7a9ac;
+    }
